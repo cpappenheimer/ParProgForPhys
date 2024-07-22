@@ -1,0 +1,24 @@
+(base) in /Users/cpappen/Documents/Repos/ParProgForPhys on (main): ./pi_omp.sh
+OMP using 1 threads
+Pi with 100000000 steps is 3.141593 in 0.363896 seconds
+ %                                                                                                                        
+(base) in /Users/cpappen/Documents/Repos/ParProgForPhys on (main): ./pi_omp.sh
+OMP using 2 threads
+Pi with 100000000 steps is 3.141593 in 0.190136 seconds
+ %                                                                                                                        
+(base) in /Users/cpappen/Documents/Repos/ParProgForPhys on (main): ./pi_omp.sh
+OMP using 4 threads
+Pi with 100000000 steps is 3.141593 in 0.107532 seconds
+ %                                                                                                                        
+(base) in /Users/cpappen/Documents/Repos/ParProgForPhys on (main): ./pi_omp.sh
+OMP using 6 threads
+Pi with 100000000 steps is 3.141593 in 0.076046 seconds
+ %                                                                                                                        
+(base) in /Users/cpappen/Documents/Repos/ParProgForPhys on (main): ./pi_omp.sh
+OMP using 8 threads
+Pi with 100000000 steps is 3.141593 in 0.062523 seconds
+ %                                                                                                                        
+(base) in /Users/cpappen/Documents/Repos/ParProgForPhys on (main): ./pi_omp.sh
+OMP using 12 threads
+Pi with 100000000 steps is 3.141593 in 0.065661 seconds
+ %   
